@@ -1,10 +1,11 @@
+import { Link } from "react-router-dom";
 
 export default function App() {
 
 
   return (
     <>
-      <h1>App tsx</h1>
+      <Link to={"/lgin"} ><h1>Clique aqui</h1></Link>
     </>
   )
 }
