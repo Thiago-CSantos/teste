@@ -5,7 +5,7 @@ export default function App() {
 
   return (
     <>
-      <Link to={"/lgin"} ><h1>Clique aqui</h1></Link>
+      <Link to={"/login"} ><h1>Clique aqui</h1></Link>
     </>
   )
 }
